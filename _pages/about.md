@@ -10,7 +10,7 @@ redirect_from:
 
 # 📖 About Me
 
-I am a PhD candidate in the Institute of Information Engineering, Chinese Academy of Sciences, supervised by Prof. Yu Wen.
+I am a PhD candidate in the Institute of Information Engineering, Chinese Academy of Sciences.
 
 My research interests lie at the intersection of security, advanced persistent threat detection, and natural language processing. 
 
